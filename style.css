@@ -95,6 +95,10 @@ main {
 }
 
 
+.cart-icon-text-container a:hover {
+    background-color: hsl(158, 58%, 30%);
+}
+
 /* Footer part */
 
 .attribution {
@@ -107,9 +111,7 @@ main {
 }
 
 @media (max-width: 619px) {
-    body {
-        
-    }
+    body {}
 
     img {
         border-radius: 12px 12px 0 0;
